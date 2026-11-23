@@ -58,7 +58,7 @@ Aufbau des Actors mit den statischen Meshes, Kontrollleuchten und den selbst ang
 
 Übersicht über den vollständigen EventGraph und die Umsetzung der verschiedenen Interaktionen.
 
-<video src="resources/eventgraph.mp4" controls width="100%"></video>
+![Interaktionen im EventGraph](resources/eventgraph.gif)
 
 ### 2. Interaktionen im Viewport
 

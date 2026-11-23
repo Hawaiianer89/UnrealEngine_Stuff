@@ -58,13 +58,13 @@ Einstiegspunkt über das Event `Interact` des Interfaces `BPI_Interactable`, Üb
 
 Übersicht über den vollständigen EventGraph und die Umsetzung der Haubenbewegung und Blätterrotation.
 
-<video src="resources/eventgraph.mp4" controls width="100%"></video>
+![Interaktionen im EventGraph](resources/eventgraph.gif)
 
 ### 2. Interaktionen im Viewport
 
 Vorführung der Spülmaschine in der laufenden Unreal-Engine-Szene mit der Haubenbewegung und rotierenden Waschblättern.
 
-<video src="resources/vorschau.mp4" controls width="100%"></video>
+![Interaktionen im Viewport](resources/vorschau.gif)
 
 ## Voraussetzungen und Verwendung
 

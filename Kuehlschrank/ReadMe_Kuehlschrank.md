@@ -90,14 +90,13 @@ Der Türzustand wird per OR-Knoten aus beiden Türen ermittelt. Auf dem Display 
 
 Übersicht über den vollständigen EventGraph und die Umsetzung der Türsteuerung und der Temperaturanzeige.
 
-<video src="resources/eventgraph.mp4" controls width="100%"></video>
+![Interaktionen im EventGraph](resources/eventgraph.gif)
 
 ### 2. Interaktionen im Viewport
 
 Vorführung des Kühlschranks in der laufenden Unreal-Engine-Szene mit geöffneten und geschlossenen Türen und der Temperaturanzeige.
 
-<video src="resources/vorschau.mp4" controls width="100%"></video>
-[Video ansehen](./resources/vorschau.mp4)
+![Interaktionen im Viewport](resources/vorschau.gif)
 
 ## Voraussetzungen und Verwendung
 
