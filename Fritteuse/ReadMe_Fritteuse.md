@@ -64,7 +64,7 @@ Aufbau des Actors mit den statischen Meshes, Kontrollleuchten und den selbst ang
 
 Vorführung der Fritteuse in der laufenden Unreal-Engine-Szene mit den verschiedenen Bedienelementen und Animationen.
 
-<video src="resources/vorschau.mp4" controls width="100%"></video>
+![Interaktionen im Viewport](resources/vorschau.gif)
 
 
 ## Voraussetzungen und Verwendung
